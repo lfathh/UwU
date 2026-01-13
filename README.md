@@ -376,6 +376,7 @@ Promt mode:
 
 [NodeJS (version 22.12.0)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi)<br>
 [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)<br>
+[Farm Bot ZIP File](https://github.com/lfathh/UwU/archive/refs/heads/main.zip)
 
 ## 🎈・Installation
 
