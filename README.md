@@ -1,20 +1,8 @@
-[Version 1.0.8.8(no longer support)](https://github.com/Mid0Hub/owofarmbot)<br>
+[Version 1.0.8.8(no longer support)](https://github.com/lfathh/OwO-V2)<br>
 
-dWdnY2Y6Ly9iY3JhLmZjYmd2c2wucGJ6L2dlbnB4LzVwc2tIZ1B4Y3hQVkVlWGxxVVhGb1kgcm90MTM= </br>
-
-<h1 align="center">OwO Farm Bot Stable V0.0.9.3.2(BETA) WEBUI WITH CAPTCHA SOLVER ✒️</h1>
-<h2 align ="center">The best owo farm bot until i do better. coded with the great ideas and love of a Turkish engineer, mid0hub team and users.<br> 💖 Thank you to everyone who contributed 💖</h2>
+<h1 align="center">OwO Farm Bot V2 WEBUI WITH CAPTCHA SOLVER ✒️</h1>
+<h2 align ="center">The best owo farm bot until i do better. coded with the great ideas and love of a Turkish engineer, lfathh team and users.<br> 💖 Thank you to everyone who contributed 💖</h2>
 <p align="center">
-
-[![Total Views](https://hits.sh/github.com/Mid0Hub/owofarmbot_stable.svg?view=today-total&label=Repo%20Today/Total%20Views&color=770ca1&labelColor=007ec6)](https://github.com/Mid0Hub/owofarmbot_stable)
-[![Last Commit](https://img.shields.io/github/last-commit/Mid0Hub/owofarmbot_stable)](https://github.com/Mid0Hub/owofarmbot_stable)
-
-## Tutorials
-
-### Videos
-
-- [Windows FOR V0.0.6](https://www.youtube.com/watch?v=U4Q6joLF2Qo) - Official
-- [Termux](https://youtu.be/w2tvj1oRSO8?si=ueve5EIC9usVpxIT) - ZungHieu
 
 ### Text
 
@@ -22,9 +10,6 @@ dWdnY2Y6Ly9iY3JhLmZjYmd2c2wucGJ6L2dlbnB4LzVwc2tIZ1B4Y3hQVkVlWGxxVVhGb1kgcm90MTM=
     - [Windows / Linux](#windows--linux) - Official
     - [Android (Termux)](#android-termux) - Official
 
-If you need the help, join the Discord server [here](https://discord.gg/WzYXVbXt6C)
-
-<!-- To get auth key, join the Discord server [here](https://discord.gg/WzYXVbXt6C), go to [`#🤖・bot-commands`](https://discord.com/channels/1202294695091507230/1203705738770256032), and send `s!key`. The official bot will directly message you with the key. -->
 
 </p>
 
@@ -56,10 +41,10 @@ If you need the help, join the Discord server [here](https://discord.gg/WzYXVbXt
 
 ## ⭐・Star History
 
-<h2 align="center">Goal: <a href="https://github.com/Mid0Hub/owofarmbot_stable/stargazers"><img src="https://img.shields.io/github/stars/Mid0Hub/owofarmbot_stable" /></a> / 512</h2>
+<h2 align="center">Goal: <a href="https://github.com/lfathh/OwO-V2/stargazers"><img src="https://img.shields.io/github/stars/lfathh/OwO-V2" /></a> / 512</h2>
 ⭐⭐⭐ You can also give this repository a star so that others know we're trusted!<br>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mid0Hub/owofarmbot_stable&type=Date)](https://star-history.com/#Mid0Hub/owofarmbot_stable&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lfathh/OwO-V2&type=Date)](https://star-history.com/#lfathh/OwO-V2&Date)
 
 ## ❗・Important (Anyone using the bot is deemed to have read and accepted these)
 
@@ -333,11 +318,6 @@ If you need the help, join the Discord server [here](https://discord.gg/WzYXVbXt
 
 ```
 
-## 💎・Get Token
-
-[BLOG - Geeks for Geeks - How to get discord token](https://www.geeksforgeeks.org/how-to-get-discord-token/)
-[YOUTUBE - GuideRealm - How To Get Your Token In Discord](https://www.youtube.com/watch?v=7J38Uy5Y4vA)
-
 ### PC
 
 1. Open your preferred browser (with developer tools) and login to https://discord.com/app
@@ -373,11 +353,11 @@ m)
 
 ## 🖥️・WEBUI
 
-![](https://raw.githubusercontent.com/Mid0Hub/owofarmbot_stable/main/assets/webui.png)
+![](https://raw.githubusercontent.com/lfathh/OwO-V2/main/assets/webui.png)
 
 <!-- ## 📚・Discord RPC
 
-![](https://raw.githubusercontent.com/Mid0Hub/owofarmbot_stable/main/images/rpc.jpg) -->
+![](https://raw.githubusercontent.com/lfathh/OwO-V2/main/images/rpc.jpg) -->
 
 ## ❗・Captcha Alert
 
@@ -386,17 +366,17 @@ m)
 
 Notify mode:
 
-![](https://raw.githubusercontent.com/Mid0Hub/owofarmbot_stable/main/assets/notificationss.png)
+![](https://raw.githubusercontent.com/lfathh/OwO-V2/main/assets/notificationss.png)
 
 Promt mode:
 
-![](https://raw.githubusercontent.com/Mid0Hub/owofarmbot_stable/main/assets/promptss.png)
+![](https://raw.githubusercontent.com/lfathh/OwO-V2/main/assets/promptss.png)
 
 ## 🔗・Required Links
 
 [NodeJS (version 22.12.0)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi)<br>
 [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)<br>
-[Farm Bot ZIP File](https://github.com/Mid0Hub/owofarmbot_stable/archive/refs/heads/main.zip)
+[Farm Bot ZIP File](https://github.com/lfathh/OwO-V2/archive/refs/heads/main.zip)
 
 ## 🎈・Installation
 
@@ -405,7 +385,7 @@ Promt mode:
 ### 💻・Windows
 
 ```bash
-irm "https://raw.githubusercontent.com/Mid0Hub/owofarmbot_stable/main/windows-setup.ps1" | iex
+irm "https://raw.githubusercontent.com/lfathh/OwO-V2/main/windows-setup.ps1" | iex
 ```
 
 ## For Advanced Users:
@@ -417,11 +397,11 @@ irm "https://raw.githubusercontent.com/Mid0Hub/owofarmbot_stable/main/windows-se
 node -v
 
 # Clone the files with git:
-git clone --recurse-submodules https://github.com/Mid0Hub/owofarmbot_stable
-# Optionally you can also download from github at https://github.com/Mid0Hub/owofarmbot_stable/archive/refs/heads/main.zip
+git clone --recurse-submodules https://github.com/lfathh/OwO-V2
+# Optionally you can also download from github at https://github.com/lfathh/OwO-V2/archive/refs/heads/main.zip
 
 # Enter into the cloned directory:
-cd owofarmbot_stable
+cd OwO-V2
 
 # Configure the bot:
 notepad config.json # On windows
@@ -462,12 +442,12 @@ You need to download the following two applications:<br>
 ```bash
 # Install:
 apt update -y && apt upgrade -y
-curl https://raw.githubusercontent.com/Mid0Hub/owofarmbot_stable/main/termux-setup.sh | bash
+curl https://raw.githubusercontent.com/lfathh/OwO-V2/main/termux-setup.sh | bash
 
 
 # Configure the bot:
 
-cd owofarmbot_stable
+cd OwO-V2
 nano config.json
 
 # Run the bot:
@@ -495,14 +475,9 @@ From Discord, In config.json, type [prefix]stop (example: e!reboot) with the pre
 
 ```
 
-## 🥰・Contributors
-
-- Random-629671 [(GitHub)](https://github.com/Random-629671)
-- Hiếu LoneLy [(YouTube)](https://www.youtube.com/watch?v=w2tvj1oRSO8)
-
 ## 📑・License
 
-[OwO Farm Bot Stable](https://github.com/Mid0Hub/owofarmbot_stable) is licensed under the terms of [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/Mid0Hub/owofarmbot_stable/blob/main/LICENSE) ("CC-BY-NC-SA-4.0"). Commercial use is not allowed under this license. This includes any kind of revenue made with or based upon the software, even donations.
+[OwO Farm Bot Stable](https://github.com/lfathh/OwO-V2) is licensed under the terms of [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/lfathh/OwO-V2/blob/main/LICENSE) ("CC-BY-NC-SA-4.0"). Commercial use is not allowed under this license. This includes any kind of revenue made with or based upon the software, even donations.
 
 The CC-BY-NC-SA-4.0 allows you to:
 
