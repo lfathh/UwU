@@ -69,7 +69,7 @@
     },
     "settings": {
         "owoprefix": "owo",
-        "discordrpc": true,
+        "discordrpc": false,
         "chatfeedback": true,
         "autophrases": true,
         "autoresume": false,
