@@ -221,16 +221,16 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 function rpc(type) {
     let status = new RichPresence(client)
-        .setApplicationId("1366968567517413479")
+        .setApplicationId("1253757665520259173")
         .setType("PLAYING")
-        .setName("Self Bot")
-        .setDetails("Control Self Bot")
+        .setName("OwO Farm Bot Stable")
+        .setDetails("Auto Farming")
         .setState(`${client.global.paused ? "Paused" : "Running"}`)
         .setStartTimestamp(Date.now())
-        .setAssetsLargeImage("1006535951")
-        .setAssetsLargeText("By @lfathh")
-        .addButton("Github", "https://github.com/lfathh/UwU")
-        .addButton("Tiktok", "https://tiktok.com/fxyyxs");
+        .setAssetsLargeImage("1253758464816054282")
+        .setAssetsLargeText("OwO Farm Bot Stable")
+        .addButton("Farm Bot", "https://github.com/lfathh/UwU")
+        .addButton("Discord", "https://discord.gg/s7vxfxy");
 
     if (config.settings.discordrpc) {
         client.user.setPresence({ activities: [status] });
