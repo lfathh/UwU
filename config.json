@@ -17,19 +17,19 @@
             "pray": false,
             "curse": true,
             "huntbot": {
-                "enable": true,
+                "enable": false,
                 "maxtime": 10,
                 "upgrade": false,
                 "upgradetype": "duration"
             },
             "gamble": {
-                "coinflip": true,
-                "slot": true
+                "coinflip": false,
+                "slot": false
             },
             "animals": false,
-            "inventory": true,
-            "checklist": true,
-            "autoquest": true
+            "inventory": false,
+            "checklist": false,
+            "autoquest": false
         },
         "maximum_gem_rarity": "Mythical"
     },
@@ -69,7 +69,7 @@
     },
     "settings": {
         "owoprefix": "owo",
-        "discordrpc": false,
+        "discordrpc": true,
         "chatfeedback": true,
         "autophrases": true,
         "autoresume": false,
@@ -85,10 +85,10 @@
 
         "inventory": {
             "use": {
-                "lootbox": true,
+                "lootbox": false,
                 "fabledlootbox": false,
-                "crate": true,
-                "gems": true
+                "crate": false,
+                "gems": false
             }
         },
         "gamble": {
@@ -185,6 +185,6 @@
         }
     },
     "socket": {
-        "expressport": 1243
+        "expressport": 2009
     }
 }
