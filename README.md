@@ -1,4 +1,4 @@
-[Version 1.0.8.8(no longer support)](https://github.com/lfathh/OwO-V2)<br>
+[Version 1.0.8.8(no longer support)](https://github.com/lfathh/UwU)<br>
 
 <h1 align="center">OwO Farm Bot V2 WEBUI WITH CAPTCHA SOLVER ✒️</h1>
 <h2 align ="center">The best owo farm bot until i do better. coded with the great ideas and love of a Turkish engineer, lfathh team and users.<br> 💖 Thank you to everyone who contributed 💖</h2>
@@ -41,10 +41,10 @@
 
 ## ⭐・Star History
 
-<h2 align="center">Goal: <a href="https://github.com/lfathh/OwO-V2/stargazers"><img src="https://img.shields.io/github/stars/lfathh/OwO-V2" /></a> / 512</h2>
+<h2 align="center">Goal: <a href="https://github.com/lfathh/UwU/stargazers"><img src="https://img.shields.io/github/stars/lfathh/OwO-V2" /></a> / 512</h2>
 ⭐⭐⭐ You can also give this repository a star so that others know we're trusted!<br>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lfathh/OwO-V2&type=Date)](https://star-history.com/#lfathh/OwO-V2&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lfathh/UwU&type=Date)](https://star-history.com/#lfathh/UwU&Date)
 
 ## ❗・Important (Anyone using the bot is deemed to have read and accepted these)
 
@@ -353,11 +353,11 @@ m)
 
 ## 🖥️・WEBUI
 
-![](https://raw.githubusercontent.com/lfathh/OwO-V2/main/assets/webui.png)
+![](https://raw.githubusercontent.com/lfathh/UwU/main/assets/webui.png)
 
 <!-- ## 📚・Discord RPC
 
-![](https://raw.githubusercontent.com/lfathh/OwO-V2/main/images/rpc.jpg) -->
+![](https://raw.githubusercontent.com/lfathh/UwU/main/images/rpc.jpg) -->
 
 ## ❗・Captcha Alert
 
@@ -366,17 +366,16 @@ m)
 
 Notify mode:
 
-![](https://raw.githubusercontent.com/lfathh/OwO-V2/main/assets/notificationss.png)
+![](https://raw.githubusercontent.com/lfathh/UwU/main/assets/notificationss.png)
 
 Promt mode:
 
-![](https://raw.githubusercontent.com/lfathh/OwO-V2/main/assets/promptss.png)
+![](https://raw.githubusercontent.com/lfathh/UwU/main/assets/promptss.png)
 
 ## 🔗・Required Links
 
 [NodeJS (version 22.12.0)](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi)<br>
 [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)<br>
-[Farm Bot ZIP File](https://github.com/lfathh/OwO-V2/archive/refs/heads/main.zip)
 
 ## 🎈・Installation
 
@@ -385,7 +384,7 @@ Promt mode:
 ### 💻・Windows
 
 ```bash
-irm "https://raw.githubusercontent.com/lfathh/OwO-V2/main/windows-setup.ps1" | iex
+irm "https://raw.githubusercontent.com/lfathh/UwU/main/windows-setup.ps1" | iex
 ```
 
 ## For Advanced Users:
@@ -397,8 +396,8 @@ irm "https://raw.githubusercontent.com/lfathh/OwO-V2/main/windows-setup.ps1" | i
 node -v
 
 # Clone the files with git:
-git clone --recurse-submodules https://github.com/lfathh/OwO-V2
-# Optionally you can also download from github at https://github.com/lfathh/OwO-V2/archive/refs/heads/main.zip
+git clone --recurse-submodules https://github.com/lfathh/UwU
+# Optionally you can also download from github at https://github.com/lfathh/UwU/archive/refs/heads/main.zip
 
 # Enter into the cloned directory:
 cd OwO-V2
@@ -442,12 +441,12 @@ You need to download the following two applications:<br>
 ```bash
 # Install:
 apt update -y && apt upgrade -y
-curl https://raw.githubusercontent.com/lfathh/OwO-V2/main/termux-setup.sh | bash
+curl https://raw.githubusercontent.com/lfathh/UwU/main/termux-setup.sh | bash
 
 
 # Configure the bot:
 
-cd OwO-V2
+cd UwU
 nano config.json
 
 # Run the bot:
@@ -477,7 +476,7 @@ From Discord, In config.json, type [prefix]stop (example: e!reboot) with the pre
 
 ## 📑・License
 
-[OwO Farm Bot Stable](https://github.com/lfathh/OwO-V2) is licensed under the terms of [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/lfathh/OwO-V2/blob/main/LICENSE) ("CC-BY-NC-SA-4.0"). Commercial use is not allowed under this license. This includes any kind of revenue made with or based upon the software, even donations.
+[OwO Farm Bot Stable](https://github.com/lfathh/UwU) is licensed under the terms of [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/lfathh/UwU/blob/main/LICENSE) ("CC-BY-NC-SA-4.0"). Commercial use is not allowed under this license. This includes any kind of revenue made with or based upon the software, even donations.
 
 The CC-BY-NC-SA-4.0 allows you to:
 
